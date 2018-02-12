@@ -1,4 +1,4 @@
-# Microprocessors and Digital Systems
+# CAB202 Microprocessors and Digital Systems
 
 
 ## Scenario
