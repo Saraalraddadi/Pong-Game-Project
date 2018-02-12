@@ -1,0 +1,1 @@
+gcc physics.c metrics.c utils.c input.c level.c test.c -lm libzdk.a -lcurses && ./a.out | less
