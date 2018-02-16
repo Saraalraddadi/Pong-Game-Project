@@ -17,7 +17,7 @@ gcc -o a1_n8779333 *.c -std=gnu99 -L ../ZDK -I ../ZDK -lzdk -lncurses -lm
 
 ## Author
 
-* **Sara Alraddadi** - *Initial work* - [Sara-Alraddadi](https://github.com/Saraalraddadi)
+* **Sara Alraddadi** - *Initial work* - [Sara Alraddadi](https://github.com/Saraalraddadi)
 
 
 ## License
